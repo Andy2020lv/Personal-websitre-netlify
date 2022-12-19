@@ -10,7 +10,7 @@ export default function Footer() {
       <a
         rel="noreferrer"
         target="_blank"
-        href="https://www.docdroid.net/2IyZgPU/andy-hernandez-cv-pdf"
+        href="https://www.docdroid.net/wBFlsI4/andy-hernandez-cv-pdf"
       >
         {" "}
         <i className="fa fa-file fa-inverse"></i>
