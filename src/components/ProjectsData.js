@@ -6,7 +6,7 @@ export default [
   {
     title: "EONET-EARTH ",
     description:
-      "An app that reaches to both NASA's EONET and EARTH API's to provide information about natural events and satellite images of them. Aditionally it provides the Astronomy Picture of the Day (APOD) API.",
+      "An app that reaches to both NASA's EONET and EARTH API's to provide information about natural events and satellite images of them. Aditionally it provides the Astronomy Picture of the Day (APOD) API and alerts in case that any natural event is happening between 50km from the user.",
     tech: ["Js", "React", "NASA's API's"],
     img: project3,
     srcCode: "https://github.com/Andy2020lv/NASA-EONET-EARTH-API-s",
