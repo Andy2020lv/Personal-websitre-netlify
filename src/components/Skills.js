@@ -22,16 +22,16 @@ export default function Skills() {
       <h1 className="title"> Skills</h1>
       <div className="skills-elements">
         <div className="frontend">
-          <h5>Frontend</h5>
+          <h3>Frontend</h3>
           <SkillsFrontEnd />
         </div>
         <div className="tools">
-          <h5>Tools</h5>
+          <h3>Tools</h3>
           <SkillsTools />
         </div>
 
         <div className="backend">
-          <h5>Backend</h5>
+          <h3>Backend</h3>
           <SkillBackend />
         </div>
       </div>

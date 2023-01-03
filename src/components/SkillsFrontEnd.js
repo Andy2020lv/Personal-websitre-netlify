@@ -8,19 +8,19 @@ export default function SkillsFrontEnd() {
   return (
     <div className="skillList">
       <div className="skill">
-        <img src={js}></img>
+        <img width={45} height={25} alt="skillsFrontEnd" src={js}></img>
         <p>Javascript</p>
       </div>
       <div className="skill">
-        <img src={react}></img>
+        <img width={45} height={25} alt="skillsFrontEnd" src={react}></img>
         <p>React</p>
       </div>
       <div className="skill">
-        <img src={html5}></img>
+        <img width={45} height={25} alt="skillsFrontEnd" src={html5}></img>
         <p>HTML</p>
       </div>
       <div className="skill">
-        <img src={css}></img>
+        <img width={45} height={25} alt="skillsFrontEnd" src={css}></img>
         <p>CSS</p>
       </div>
     </div>

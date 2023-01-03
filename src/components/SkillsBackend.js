@@ -8,19 +8,19 @@ export default function SkillBackend() {
   return (
     <div className="skillList">
       <div className="skill">
-        <img src={node}></img>
+        <img width={45} height={25} alt="skillsBackEnd" src={node}></img>
         <p>Node JS</p>
       </div>
-      <div className="skill">
-        <img src={express}></img>
+      <div width={35} height={25} className="skill">
+        <img alt="skillsBackEnd" src={express}></img>
         <p>Express</p>
       </div>
       <div className="skill">
-        <img src={mongoDB}></img>
+        <img width={45} height={25} alt="skillsBackEnd" src={mongoDB}></img>
         <p>MongoDB</p>
       </div>
       <div className="skill">
-        <img src={mySQL}></img>
+        <img width={35} height={25} alt="skillsBackEnd" src={mySQL}></img>
         <p>MySQL</p>
       </div>
     </div>

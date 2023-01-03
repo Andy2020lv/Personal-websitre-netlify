@@ -42,7 +42,6 @@ export default function Presentation() {
           target="_blank"
           href="https://www.docdroid.net/wBFlsI4/andy-hernandez-cv-pdf"
         >
-          {" "}
           <i class="fa-solid fa-file"></i>
         </a>
       </div>

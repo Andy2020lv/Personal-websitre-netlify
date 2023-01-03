@@ -43,7 +43,12 @@ export default function Projects(props) {
         data-aos-duration="600"
         className="project-img-container"
       >
-        <img alt="projectImage" className="project-image" src={props.img}></img>
+        <img
+          width={550}
+          alt="projectImage"
+          className="project-image"
+          src={props.img}
+        ></img>
       </div>
     </div>
   );
